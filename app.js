@@ -21,7 +21,6 @@ async function getTVLs() {
 					{
 						dailySnapshot8_20_23: financialsDailySnapshots(
 							where: { timestamp_gte: 1629417600, timestamp_lt: 1629504000 }
-							orderBy: timestamp
 						) {
 							totalValueLockedUSD
 						}
