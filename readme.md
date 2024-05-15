@@ -1,5 +1,7 @@
 # Messari Standard Subgraphs Demonstration
 
+For a full walkthrough, read this [blog entry](https://mirror.xyz/madavre.eth/iByBW0HdJa_UeIXO0yVT2fziZeHofo_hS_7x_fcLOr4).
+
 ## Overview
 
 This repository demonstrates how to fetch and display Total Value Locked (TVL) data from Messari standard subgraphs using a single GraphQL query. The example focuses on two platforms: Curve Finance and SushiSwap.
