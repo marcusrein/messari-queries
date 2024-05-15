@@ -1,0 +1,45 @@
+body {
+	font-family: "Raleway", sans-serif;
+	background-color: #f4f4f9;
+	color: #333;
+	margin: 0;
+	padding: 20px;
+}
+
+.container {
+	max-width: 800px;
+	margin: auto;
+	padding: 20px;
+	background-color: #ffffff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	color: #0a4870;
+	text-align: center;
+}
+
+div#data-container {
+	margin-top: 20px;
+}
+
+div#data-container > div {
+	padding: 10px;
+	border-bottom: 1px solid #eee;
+}
+
+h3 {
+	color: #0a4870;
+	margin: 0 0 5px 0;
+}
+
+p {
+	margin: 5px 0;
+}
+
+hr {
+	margin-top: 10px;
+	border: none;
+	height: 1px;
+	background-color: #eee;
+}
